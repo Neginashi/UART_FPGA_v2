@@ -14,3 +14,4 @@ READ:
 input: R XX ( XX: address, XX = 01~02 )
 
 output: YYYYYYYY ( YYYYYYYY: data )
+        FAIL ( errors in the format )
